@@ -1,0 +1,331 @@
+body {
+  background-color: #f4f6ff;
+  font-family: "Century Gothic", sans-serif;
+}
+a{
+  color: grey;
+  text-decoration: none;
+  font-family: "Century Gothic", sans-serif;
+}
+a:hover{
+  color:#11999E;
+  text-decoration: none;
+}
+.search-bar{
+position: absolute;
+left:760px;
+top:30px;
+}
+.search-btn{
+  width:15px;
+  height:15px;
+}
+.btn {
+  background: #2ec0f5;
+  background-image: -webkit-linear-gradient(top, #2ec0f5, #2980b9);
+  background-image: -moz-linear-gradient(top, #2ec0f5, #2980b9);
+  background-image: -ms-linear-gradient(top, #2ec0f5, #2980b9);
+  background-image: -o-linear-gradient(top, #2ec0f5, #2980b9);
+  background-image: linear-gradient(to bottom, #2ec0f5, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcfc;
+  background-image: -webkit-linear-gradient(top, #3cfcfc, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfcfc, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfcfc, #3498db);
+  background-image: -o-linear-gradient(top, #3cfcfc, #3498db);
+  background-image: linear-gradient(to bottom, #3cfcfc, #3498db);
+  text-decoration: none;
+}
+.top-container {
+  position: relative;
+}
+
+.top-logo {
+  display: inline-block;
+  width: 400px;
+  margin: 0;
+}
+
+.facebook {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 700px;
+}
+
+.youtube {
+  display: inline-block;
+  width: 70px;
+  height: 60px;
+  position: relative;
+  left: 700px;
+  margin-bottom: 20px;
+}
+
+.instragram {
+  display: inline-block;
+  width: 90px;
+  height: 50px;
+  position: relative;
+  left: 700px;
+  margin-bottom: 25px;
+}
+
+.menu {
+  position: relative;
+  background-color: black;
+  height:40px;
+  text-align: center;
+}
+
+.home {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  left:100px;
+  margin:0;
+}
+
+.products {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  left:300px;
+  margin:0;
+}
+
+.truck-gyan {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  left:550px;
+  margin:0;
+}
+
+.gallery {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  right:550px;
+  margin:0;
+}
+
+.contact-us {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  right:300px;
+  margin:0;
+}
+
+.about-us {
+  display: inline-block;
+  position: absolute;
+  top:10px;
+  right:100px;
+  margin:0;
+}
+
+.middle-container {
+  position: relative;
+}
+
+.green-leaf {
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 5px;
+  bottom: 70px;
+}
+
+.background {
+  position: relative;
+  left: 120px;
+  top: 30px;
+  width: 1200px;
+}
+
+.tech {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  right: 5px;
+  bottom: 300px;
+}
+
+.gear-img {
+  position: absolute;
+  right: 20px;
+  height: 50px;
+  width: 50px;
+}
+
+.middle-container2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.bottom-container{
+  margin-top:50px;
+}
+
+.heading1 {
+  background-color: #84a9ac;
+  margin-bottom: 100px;
+  font-size: 25px;
+}
+.img-tml48t1{
+  height:300px;
+  width:475px;
+}
+.img-tml48t{
+  height:325px;
+  width:450px;
+}
+.news {
+  background-color: #84a9ac;
+  margin-bottom: 100px;
+  font-size: 25px;
+}
+
+.truck {
+  margin-left: 30px;
+}
+
+.tt {
+  margin-left: 20px;
+}
+
+.truck-img {
+  height: 150px;
+  width: 300px;
+  display: inline-block;
+}
+
+.tt-img {
+  height: 150px;
+  width: 650px;
+  display: inline-block;
+  margin: 0 50px;
+}
+
+.tipper-img {
+  height: 150px;
+  width: 300px;
+  display: inline-block;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0;
+  width: auto;
+  text-align: center;
+}
+.trucks{
+  text-align: center;
+  padding: 20px;
+}
+.tts{
+  padding-left: 300px;
+}
+.tippers{
+  padding-left: 100px;
+}
+.trucks1{
+  float: left;
+margin: 300px 100px 300px 100px;
+}
+.truck-ton{
+  margin:0
+}
+.head1{
+text-align: center;
+}
+.tata-logo{
+  height:60px;
+  width:75px;
+}
+.al-logo{
+  height:75;
+  width:100px;
+}
+.bb-logo{
+  height:90px;
+  width:135px;
+}
+.vecv-logo{
+  height:50px;
+  width:75;
+}
+.mm-logo{
+  height:60px;
+  width:75px;
+}
+.tml48{
+  height: 250px;
+  width:350px;
+  margin: 0 50px 0 50px;
+}
+.al48{
+  height: 200px;
+  width:350px;
+  margin: 0 50px;
+}
+.vecv48{
+  height: 250px;
+  width:350px;
+  margin: 0 100px;
+}
+.tml48t{
+  padding-left: 125px;
+}
+.al48t{
+  padding-left: 200px;
+}
+.vecv48t{
+  padding-left: 250px;
+}
+.lpt48t{
+  margin-top: 150px;
+  margin-left: 50px;
+}
+
+.lpt48t-1{
+  border: 3px solid;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.lpt48t-head{
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
+  background-color: #e4e3e3;
+}
+.lpt48t-th{
+  text-align: center;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.lpt48t-td{
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: left;
+}
+.lpt48t-header{
+  text-align: center;
+}
+.lpt48t-head1{
+  text-align: left;
+  background-color: #eeeeee;
+}
