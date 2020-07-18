@@ -241,33 +241,43 @@ top:30px;
 .tippers{
   padding-left: 100px;
 }
-.trucks1{
-  float: left;
-margin: 300px 100px 300px 100px;
-}
+
 .truck-ton{
-  margin:0
+  border: 3px solid;
+  border-collapse: collapse;
+  text-align: center;
+  margin:0 auto;
+}
+.truck-td{
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
 }
 .head1{
 text-align: center;
 }
 .tata-logo{
+  margin: 10px 15px 25px 10px;
   height:60px;
   width:75px;
 }
 .al-logo{
+  margin: 20px 5px 15px 10px;
   height:75;
   width:100px;
 }
 .bb-logo{
+  margin: 20px 10px 10px 5px;
   height:90px;
   width:135px;
 }
 .vecv-logo{
+  margin: 10px 10px 30px 10px;
   height:50px;
   width:75;
 }
 .mm-logo{
+  margin: 10px 10px 30px 15px;
   height:60px;
   width:75px;
 }
@@ -328,4 +338,34 @@ text-align: center;
 .lpt48t-head1{
   text-align: left;
   background-color: #eeeeee;
+}
+.al48t{
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.img-al48t{
+  margin-left: 200px;
+}
+.vecv48t1{
+  margin-top: 150px;
+  margin-left: 150px;
+  padding:0;
+}
+.compare-48t{
+  text-align: center;
+  margin-top: 50px;
+}
+.img-compare48t{
+  height:100px;
+  width:100px;
+}
+.compare-48t1{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.diagram{
+  height : 150px;
+  width:400px;
 }
