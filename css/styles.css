@@ -227,6 +227,15 @@ top:30px;
 .head1{
 text-align: center;
 }
+
+.model-48t{
+  text-align: center;
+  padding:3% 5%;
+}
+
+.compare-48t{
+  text-align: center;
+}
 .comp-logo {
   height: 63px;
   width:90px;
@@ -239,7 +248,7 @@ text-align: center;
 .al48{
   height: 200px;
   width:350px;
-  margin: 0 50px;
+  margin: 25px 50px;
 }
 .vecv48{
   height: 250px;
