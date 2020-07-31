@@ -2,6 +2,7 @@ body {
   background-color: #f4f6ff;
   font-family: "Century Gothic", sans-serif;
 }
+
 a{
   color: grey;
   text-decoration: none;
@@ -11,14 +12,24 @@ a:hover{
   color:#11999E;
   text-decoration: none;
 }
+.heading-para{
+  text-align: center;
+  margin : 10px 10px;
+}
+.menu{
+  font-size: 1.5rem;
+  color:#fff;
+}
 
 .col-img{
   width:100%;
 }
 .product-list{
   text-align: center;
-  padding:5% 3%;
+  padding:10px;
+  margin: 5px auto;
 }
+
 .search-bar{
 position: absolute;
 left:760px;
@@ -140,14 +151,16 @@ top:30px;
 }
 
 .heading1 {
-  background-color: #84a9ac;
-  margin-bottom: 100px;
+  background-color: #1b262c;
+  margin-bottom: 20px;
   font-size: 25px;
+  color:#fff;
+  text-align: center;
 }
 .heading2{
   text-align: center;
-  padding:3% 5%;
-  margin-top: 50px;
+  padding:10px;
+  margin-top: 10px auto;
 }
 .img-tml48t1{
   height:300px;
@@ -158,9 +171,11 @@ top:30px;
   width:450px;
 }
 .news {
-  background-color: #84a9ac;
-  margin-bottom: 100px;
+  background-color: #1b262c;
+  margin-bottom: 20px;
   font-size: 25px;
+  color:#fff;
+  text-align: center;
 }
 
 .truck {
