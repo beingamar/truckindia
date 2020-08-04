@@ -454,6 +454,12 @@ a:hover {
   }
 }
 
+@media (max-width: 1028px){
+  .tml-49t{
+    font-size: 2rem;
+  }
+}
+
 
 /* test */
 .test {
