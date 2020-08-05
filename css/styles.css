@@ -438,7 +438,7 @@ a:hover {
 }
 
 .go-back{
-  heigt: 200px;
+  height: 200px;
   width: 100px;
   margin-top: 40px;
   margin-left: 40px;
@@ -448,20 +448,16 @@ a:hover {
   .heading-para {
     text-align: left;
 }
+}
 
-@media (max-width: 1028px){
+@media (max-width:1028px){
   .high-5{
     font-size: 2rem;
   }
 }
 
-@media (max-width: 1028px){
-  .tml-49t-1{
-    font-size: 2rem;
-  }
-}
-@media(max-width:1028px){
-  .wnd{
+@media (max-width:1028px){
+  .wnd {
     font-size: 2rem;
   }
 }
