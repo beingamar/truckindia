@@ -460,7 +460,11 @@ a:hover {
     font-size: 2rem;
   }
 }
-
+@media(max-width:1028px){
+  .wnd{
+    font-size: 2rem;
+  }
+}
 
 /* test */
 .test {
