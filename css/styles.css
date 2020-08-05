@@ -451,15 +451,18 @@ a:hover {
 
 @media (max-width:1028px){
   .high-5{
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 
 @media (max-width:1028px){
   .wnd {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
-
+  .comp-logo1{
+    height: 63px;
+    width:108px;
+  }
 }
 
 
