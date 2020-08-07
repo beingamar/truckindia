@@ -280,10 +280,13 @@ a:hover {
 .compare-48t {
   text-align: center;
 }
-
+.ton-seg{
+  margin-top:40px;
+}
 .comp-logo {
   height: 45px;
   width: 72px;
+  margin-top:40px;
 }
 .comp-logo1{
   height:45px;
@@ -447,23 +450,19 @@ a:hover {
   .heading-para {
     text-align: left;
 }
+.high-5{
+  font-size: 1.5rem;
+}
+.wnd {
+  font-size: 1.5rem;
+}
+.comp-logo1{
+  height: 63px;
+  width:108px;
+  margin-left: 50px;
+}
 }
 
-@media (max-width:1028px){
-  .high-5{
-    font-size: 1.5rem;
-  }
-}
-
-@media (max-width:1028px){
-  .wnd {
-    font-size: 1.5rem;
-  }
-  .comp-logo1{
-    height: 63px;
-    width:108px;
-  }
-}
 
 
 /* test */
