@@ -456,10 +456,16 @@ a:hover {
 .wnd {
   font-size: 1.5rem;
 }
+.diagram{
+  height:170px;
+  width:461px;
+}
 .comp-logo1{
+  padding: 20px;
   height: 63px;
   width:108px;
-  margin-left: 50px;
+  margin-left: 75px;
+
 }
 }
 
