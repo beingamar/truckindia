@@ -19,7 +19,6 @@ a:hover {
   margin: 10px 10px;
 }
 
-
 .menu {
   font-size: 1.5rem;
   color: #fff;
@@ -258,7 +257,7 @@ a:hover {
   margin: auto 150px auto 200px;
 }
 
-.truck-ton1{
+.truck-ton1 {
   text-align: center;
 }
 
@@ -280,19 +279,21 @@ a:hover {
 .compare-48t {
   text-align: center;
 }
-.ton-seg{
-  margin-top:40px;
+
+.ton-seg {
+  margin-top: 40px;
 }
+
 .comp-logo {
   height: 45px;
   width: 72px;
-  margin-top:40px;
-}
-.comp-logo1{
-  height:45px;
-  width:72px;
+  margin-top: 40px;
 }
 
+.comp-logo1 {
+  height: 45px;
+  width: 72px;
+}
 
 .tml48 {
   height: 250px;
@@ -405,11 +406,11 @@ a:hover {
   margin-top: 25px;
 }
 
-.name-49t{
+.name-49t {
   line-height: 2.5;
 }
 
-.high-5{
+.high-5 {
   text-align: left;
   margin-left: 50px;
 }
@@ -440,7 +441,7 @@ a:hover {
   background-color: #e4e3e3;
 }
 
-.go-back{
+.go-back {
   width: 100px;
   margin-top: 40px;
   margin-left: 40px;
@@ -449,22 +450,22 @@ a:hover {
 @media (max-width: 1028px) {
   .heading-para {
     text-align: left;
-}
-.high-5{
-  font-size: 1.5rem;
-}
-.wnd {
-  font-size: 1.5rem;
-}
+  }
 
-.comp-logo1{
-  height: 63px;
-  width:108px;
-  margin-left: 50px;
-}
-}
+  .high-5 {
+    font-size: 1.5rem;
+  }
 
+  .wnd {
+    font-size: 1.5rem;
+  }
 
+  .comp-logo1 {
+    height: 63px;
+    width: 108px;
+    margin-left: 50px;
+  }
+}
 
 /* test */
 .test {
@@ -474,6 +475,7 @@ a:hover {
 .test1 {
   text-align: center;
   background-color: #e4e3e3;
+
 }
 
 .test-2 {
