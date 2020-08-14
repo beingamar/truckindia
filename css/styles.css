@@ -294,7 +294,12 @@ a:hover {
   height: 45px;
   width: 72px;
 }
-
+.comp-img{
+  margin-top: 20px;
+}
+.compare-img {
+  text-align: center;
+}
 .tml48 {
   height: 250px;
   width: 350px;
