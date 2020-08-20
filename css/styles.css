@@ -477,6 +477,9 @@ a:hover {
   }
 }
 
+.tip{
+  text-align: center;
+}
 /* test */
 .test {
   border: solid 1px;
